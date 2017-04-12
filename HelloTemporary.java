@@ -15,7 +15,7 @@ public class HelloTemporary {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("HELLO TEMPORARY!");
+        System.out.println("HELLO TARY!");
     }
     
 }
